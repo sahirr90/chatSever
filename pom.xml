@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.chat</groupId>
-	<artifactId>chat</artifactId>
+	<artifactId>chatSever</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>chat</name>
 	<description>Demo project for Spring Boot</description>
